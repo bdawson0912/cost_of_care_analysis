@@ -81,3 +81,4 @@ data.to_csv('synthetic_claims_data.csv', index=False)
 
 # Preview
 data.head()
+
